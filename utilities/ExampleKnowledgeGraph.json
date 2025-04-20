@@ -1,0 +1,769 @@
+{
+  "nodes": [
+    [
+      "Title 8.2. Commercial Code \u2014 Sales",
+      "Legal_document"
+    ],
+    [
+      "Part 2. Form, Formation And Readjustment Of Contract",
+      "Legal_document"
+    ],
+    [
+      "\u00a7 8.2-201. (Effective Until July 1, 2025) Formal Requirements; Statute Of Frauds",
+      "Legal_clause"
+    ],
+    [
+      "\u00a7 8.2-201. (Effective July 1, 2025) Formal Requirements; Statute Of Frauds",
+      "Legal_clause"
+    ],
+    [
+      "Contract For The Sale Of Goods For The Price Of $500 Or More",
+      "Contract"
+    ],
+    [
+      "Writing Sufficient To Indicate That A Contract For Sale",
+      "Document"
+    ],
+    [
+      "Merchants",
+      "Person"
+    ],
+    [
+      "Writing In Confirmation Of The Contract",
+      "Document"
+    ],
+    [
+      "Goods Are To Be Specially Manufactured For The Buyer",
+      "Goods"
+    ],
+    [
+      "Goods For Which Payment Has Been Made And Accepted",
+      "Goods"
+    ],
+    [
+      "Record Sufficient To Indicate That A Contract For Sale",
+      "Document"
+    ],
+    [
+      "Contract",
+      "Concept"
+    ],
+    [
+      "Goods",
+      "Concept"
+    ],
+    [
+      "Buyer",
+      "Role"
+    ],
+    [
+      "Seller",
+      "Entity"
+    ],
+    [
+      "Payment",
+      "Concept"
+    ],
+    [
+      "Court",
+      "Institution"
+    ],
+    [
+      "Agreement",
+      "Concept"
+    ],
+    [
+      "Seals",
+      "Concept"
+    ],
+    [
+      "\u00a7 8.2-203 (Effective Until July 1, 2025)",
+      "Law"
+    ],
+    [
+      "\u00a7 8.2-203 (Effective July 1, 2025)",
+      "Law"
+    ],
+    [
+      "\u00a7 8.2-204",
+      "Law"
+    ],
+    [
+      "\u00a7 8.2-205 (Effective Until July 1, 2025)",
+      "Law"
+    ],
+    [
+      "\u00a7 8.2-205 (Effective July 1, 2025)",
+      "Law"
+    ],
+    [
+      "\u00a7 8.2-206",
+      "Law"
+    ],
+    [
+      "1964, C. 219",
+      "Legal_document"
+    ],
+    [
+      "2003, C. 353",
+      "Legal_reference"
+    ],
+    [
+      "2024, C. 652",
+      "Legal_document"
+    ],
+    [
+      "Performance",
+      "Concept"
+    ],
+    [
+      "Offeror",
+      "Person"
+    ],
+    [
+      "Acceptance",
+      "Concept"
+    ],
+    [
+      "Additional Terms",
+      "Concept"
+    ],
+    [
+      "Modification",
+      "Concept"
+    ],
+    [
+      "Rescission",
+      "Concept"
+    ],
+    [
+      "Waiver",
+      "Concept"
+    ],
+    [
+      "\u00a7 8.2-209",
+      "Law"
+    ],
+    [
+      "\u00a7 8.2-210",
+      "Law"
+    ],
+    [
+      "\u00a7 8.2-201",
+      "Law"
+    ],
+    [
+      "\u00a7 8.9A-406",
+      "Law"
+    ],
+    [
+      "Creation, Attachment, Perfection, Enforcement Of A Security Interest",
+      "Process"
+    ],
+    [
+      "Seller'S Interest Under A Contract",
+      "Legal concept"
+    ],
+    [
+      "Transfer",
+      "Legal concept"
+    ],
+    [
+      "Subsection (2)",
+      "Legal provision"
+    ],
+    [
+      "Enforcement",
+      "Process"
+    ],
+    [
+      "Delegation Of Material Performance Of The Seller",
+      "Process"
+    ],
+    [
+      "Damages",
+      "Legal concept"
+    ],
+    [
+      "Prohibition Of Assignment Of The Contract",
+      "Legal concept"
+    ],
+    [
+      "Assignee",
+      "Role"
+    ],
+    [
+      "Assignor'S Performance",
+      "Process"
+    ],
+    [
+      "Assignment Of The Contract",
+      "Legal concept"
+    ],
+    [
+      "Assignment Of All My Rights Under The Contract",
+      "Legal concept"
+    ],
+    [
+      "Delegation Of Performance Of The Duties Of The Assignor",
+      "Process"
+    ],
+    [
+      "Promise",
+      "Legal concept"
+    ],
+    [
+      "Assignor",
+      "Role"
+    ],
+    [
+      "Other Party To The Original Contract",
+      "Role"
+    ],
+    [
+      "Assignment Which Delegates Performance",
+      "Legal concept"
+    ],
+    [
+      "Reasonable Grounds For Insecurity",
+      "Legal concept"
+    ],
+    [
+      "Assurances From The Assignee",
+      "Legal concept"
+    ],
+    [
+      "\u00a7 8.2-609",
+      "Legal provision"
+    ],
+    [
+      "1964, C. 219; 2000, C. 1007",
+      "Legal provision"
+    ]
+  ],
+  "relationships": [
+    [
+      "id='Title 8.2. Commercial Code \u2014 Sales' type='Legal_document' properties={}",
+      "CONTAINS",
+      "id='Part 2. Form, Formation And Readjustment Of Contract' type='Legal_document' properties={}"
+    ],
+    [
+      "id='Part 2. Form, Formation And Readjustment Of Contract' type='Legal_document' properties={}",
+      "CONTAINS",
+      "id='\u00a7 8.2-201. (Effective Until July 1, 2025) Formal Requirements; Statute Of Frauds' type='Legal_clause' properties={}"
+    ],
+    [
+      "id='Part 2. Form, Formation And Readjustment Of Contract' type='Legal_document' properties={}",
+      "CONTAINS",
+      "id='\u00a7 8.2-201. (Effective July 1, 2025) Formal Requirements; Statute Of Frauds' type='Legal_clause' properties={}"
+    ],
+    [
+      "id='\u00a7 8.2-201. (Effective Until July 1, 2025) Formal Requirements; Statute Of Frauds' type='Legal_clause' properties={}",
+      "REFERS_TO",
+      "id='Contract For The Sale Of Goods For The Price Of $500 Or More' type='Contract' properties={}"
+    ],
+    [
+      "id='Contract For The Sale Of Goods For The Price Of $500 Or More' type='Contract' properties={}",
+      "REQUIRES",
+      "id='Writing Sufficient To Indicate That A Contract For Sale' type='Document' properties={}"
+    ],
+    [
+      "id='Contract For The Sale Of Goods For The Price Of $500 Or More' type='Contract' properties={}",
+      "INVOLVES",
+      "id='Merchants' type='Profession' properties={}"
+    ],
+    [
+      "id='Merchants' type='Profession' properties={}",
+      "REQUIRES",
+      "id='Writing In Confirmation Of The Contract' type='Document' properties={}"
+    ],
+    [
+      "id='Contract For The Sale Of Goods For The Price Of $500 Or More' type='Contract' properties={}",
+      "INVOLVES",
+      "id='Goods Are To Be Specially Manufactured For The Buyer' type='Goods' properties={}"
+    ],
+    [
+      "id='Contract For The Sale Of Goods For The Price Of $500 Or More' type='Contract' properties={}",
+      "INVOLVES",
+      "id='Goods For Which Payment Has Been Made And Accepted' type='Goods' properties={}"
+    ],
+    [
+      "id='\u00a7 8.2-201. (Effective July 1, 2025) Formal Requirements; Statute Of Frauds' type='Legal_clause' properties={}",
+      "REQUIRES",
+      "id='Record Sufficient To Indicate That A Contract For Sale' type='Document' properties={}"
+    ],
+    [
+      "id='Merchants' type='Entity' properties={}",
+      "INVOLVED_IN",
+      "id='Contract' type='Concept' properties={}"
+    ],
+    [
+      "id='Contract' type='Concept' properties={}",
+      "INVOLVES",
+      "id='Goods' type='Concept' properties={}"
+    ],
+    [
+      "id='Buyer' type='Entity' properties={}",
+      "PURCHASES",
+      "id='Goods' type='Concept' properties={}"
+    ],
+    [
+      "id='Seller' type='Entity' properties={}",
+      "SELLS",
+      "id='Goods' type='Concept' properties={}"
+    ],
+    [
+      "id='Buyer' type='Entity' properties={}",
+      "MAKES",
+      "id='Payment' type='Concept' properties={}"
+    ],
+    [
+      "id='Seller' type='Entity' properties={}",
+      "RECEIVES",
+      "id='Payment' type='Concept' properties={}"
+    ],
+    [
+      "id='Court' type='Entity' properties={}",
+      "EVALUATES",
+      "id='Agreement' type='Concept' properties={}"
+    ],
+    [
+      "id='Merchants' type='Entity' properties={}",
+      "ESTABLISHES",
+      "id='Agreement' type='Concept' properties={}"
+    ],
+    [
+      "id='Seals' type='Concept' properties={}",
+      "ASSOCIATED_WITH",
+      "id='Agreement' type='Concept' properties={}"
+    ],
+    [
+      "id='\u00a7 8.2-203 (Effective Until July 1, 2025)' type='Law' properties={}",
+      "REFERENCED_IN",
+      "id='1964, C. 219' type='Legal_reference' properties={}"
+    ],
+    [
+      "id='\u00a7 8.2-203 (Effective July 1, 2025)' type='Law' properties={}",
+      "REFERENCED_IN",
+      "id='1964, C. 219' type='Legal_reference' properties={}"
+    ],
+    [
+      "id='\u00a7 8.2-203 (Effective July 1, 2025)' type='Law' properties={}",
+      "REFERENCED_IN",
+      "id='2024, C. 652' type='Legal_reference' properties={}"
+    ],
+    [
+      "id='\u00a7 8.2-204' type='Law' properties={}",
+      "REFERENCED_IN",
+      "id='1964, C. 219' type='Legal_reference' properties={}"
+    ],
+    [
+      "id='\u00a7 8.2-205 (Effective Until July 1, 2025)' type='Law' properties={}",
+      "REFERENCED_IN",
+      "id='1964, C. 219' type='Legal_reference' properties={}"
+    ],
+    [
+      "id='\u00a7 8.2-205 (Effective July 1, 2025)' type='Law' properties={}",
+      "REFERENCED_IN",
+      "id='1964, C. 219' type='Legal_reference' properties={}"
+    ],
+    [
+      "id='\u00a7 8.2-205 (Effective July 1, 2025)' type='Law' properties={}",
+      "REFERENCED_IN",
+      "id='2024, C. 652' type='Legal_reference' properties={}"
+    ],
+    [
+      "id='\u00a7 8.2-206' type='Law' properties={}",
+      "REFERENCED_IN",
+      "id='1964, C. 219' type='Legal_reference' properties={}"
+    ],
+    [
+      "id='Performance' type='Concept' properties={}",
+      "INVOLVES",
+      "id='Offeror' type='Person' properties={}"
+    ],
+    [
+      "id='Offeror' type='Person' properties={}",
+      "AWAITS",
+      "id='Acceptance' type='Concept' properties={}"
+    ],
+    [
+      "id='Acceptance' type='Concept' properties={}",
+      "MAY_INCLUDE",
+      "id='Additional Terms' type='Concept' properties={}"
+    ],
+    [
+      "id='Additional Terms' type='Concept' properties={}",
+      "PROPOSED_FOR",
+      "id='Contract' type='Concept' properties={}"
+    ],
+    [
+      "id='Merchants' type='Person' properties={}",
+      "MAY_INCLUDE_IN_CONTRACT",
+      "id='Additional Terms' type='Concept' properties={}"
+    ],
+    [
+      "id='Contract' type='Concept' properties={}",
+      "CAN_BE_SUBJECT_TO",
+      "id='Modification' type='Concept' properties={}"
+    ],
+    [
+      "id='Contract' type='Concept' properties={}",
+      "CAN_BE_SUBJECT_TO",
+      "id='Rescission' type='Concept' properties={}"
+    ],
+    [
+      "id='Contract' type='Concept' properties={}",
+      "CAN_BE_SUBJECT_TO",
+      "id='Waiver' type='Concept' properties={}"
+    ],
+    [
+      "id='\u00a7 8.2-209' type='Law' properties={}",
+      "INCLUDED_IN",
+      "id='1964, C. 219' type='Legal_document' properties={}"
+    ],
+    [
+      "id='\u00a7 8.2-209' type='Law' properties={}",
+      "INCLUDED_IN",
+      "id='2024, C. 652' type='Legal_document' properties={}"
+    ],
+    [
+      "id='\u00a7 8.2-210' type='Law' properties={}",
+      "INCLUDED_IN",
+      "id='1964, C. 219' type='Legal_document' properties={}"
+    ],
+    [
+      "id='\u00a7 8.2-209' type='Law' properties={}",
+      "REFERENCES",
+      "id='\u00a7 8.2-201' type='Law' properties={}"
+    ],
+    [
+      "id='\u00a7 8.2-210' type='Law' properties={}",
+      "REFERENCES",
+      "id='\u00a7 8.9A-406' type='Law' properties={}"
+    ],
+    [
+      "id='Creation, Attachment, Perfection, Enforcement Of A Security Interest' type='Process' properties={}",
+      "AFFECTS",
+      "id=\"Seller'S Interest Under A Contract\" type='Legal concept' properties={}"
+    ],
+    [
+      "id='Transfer' type='Legal concept' properties={}",
+      "AFFECTS",
+      "id='Buyer' type='Role' properties={}"
+    ],
+    [
+      "id='Enforcement' type='Process' properties={}",
+      "RESULTS_IN",
+      "id='Delegation Of Material Performance Of The Seller' type='Process' properties={}"
+    ],
+    [
+      "id='Seller' type='Role' properties={}",
+      "LIABLE_FOR",
+      "id='Damages' type='Legal concept' properties={}"
+    ],
+    [
+      "id='Court' type='Institution' properties={}",
+      "MAY_GRANT_RELIEF_FOR",
+      "id='Damages' type='Legal concept' properties={}"
+    ],
+    [
+      "id='Prohibition Of Assignment Of The Contract' type='Legal concept' properties={}",
+      "BARS",
+      "id='Assignee' type='Role' properties={}"
+    ],
+    [
+      "id='Assignment Of The Contract' type='Legal concept' properties={}",
+      "IMPLIES",
+      "id='Delegation Of Performance Of The Duties Of The Assignor' type='Process' properties={}"
+    ],
+    [
+      "id='Assignee' type='Role' properties={}",
+      "MAKES",
+      "id='Promise' type='Legal concept' properties={}"
+    ],
+    [
+      "id='Assignor' type='Role' properties={}",
+      "CAN_ENFORCE",
+      "id='Promise' type='Legal concept' properties={}"
+    ],
+    [
+      "id='Other Party To The Original Contract' type='Role' properties={}",
+      "CAN_ENFORCE",
+      "id='Promise' type='Legal concept' properties={}"
+    ],
+    [
+      "id='Assignment Which Delegates Performance' type='Legal concept' properties={}",
+      "CREATES",
+      "id='Reasonable Grounds For Insecurity' type='Legal concept' properties={}"
+    ],
+    [
+      "id='Other Party To The Original Contract' type='Role' properties={}",
+      "MAY_DEMAND",
+      "id='Assurances From The Assignee' type='Legal concept' properties={}"
+    ]
+  ],
+  "triples": [
+    [
+      "id='Title 8.2. Commercial Code \u2014 Sales' type='Legal_document' properties={} (Unknown)",
+      "CONTAINS",
+      "id='Part 2. Form, Formation And Readjustment Of Contract' type='Legal_document' properties={} (Unknown)"
+    ],
+    [
+      "id='Part 2. Form, Formation And Readjustment Of Contract' type='Legal_document' properties={} (Unknown)",
+      "CONTAINS",
+      "id='\u00a7 8.2-201. (Effective Until July 1, 2025) Formal Requirements; Statute Of Frauds' type='Legal_clause' properties={} (Unknown)"
+    ],
+    [
+      "id='Part 2. Form, Formation And Readjustment Of Contract' type='Legal_document' properties={} (Unknown)",
+      "CONTAINS",
+      "id='\u00a7 8.2-201. (Effective July 1, 2025) Formal Requirements; Statute Of Frauds' type='Legal_clause' properties={} (Unknown)"
+    ],
+    [
+      "id='\u00a7 8.2-201. (Effective Until July 1, 2025) Formal Requirements; Statute Of Frauds' type='Legal_clause' properties={} (Unknown)",
+      "REFERS_TO",
+      "id='Contract For The Sale Of Goods For The Price Of $500 Or More' type='Contract' properties={} (Unknown)"
+    ],
+    [
+      "id='Contract For The Sale Of Goods For The Price Of $500 Or More' type='Contract' properties={} (Unknown)",
+      "REQUIRES",
+      "id='Writing Sufficient To Indicate That A Contract For Sale' type='Document' properties={} (Unknown)"
+    ],
+    [
+      "id='Contract For The Sale Of Goods For The Price Of $500 Or More' type='Contract' properties={} (Unknown)",
+      "INVOLVES",
+      "id='Merchants' type='Profession' properties={} (Unknown)"
+    ],
+    [
+      "id='Merchants' type='Profession' properties={} (Unknown)",
+      "REQUIRES",
+      "id='Writing In Confirmation Of The Contract' type='Document' properties={} (Unknown)"
+    ],
+    [
+      "id='Contract For The Sale Of Goods For The Price Of $500 Or More' type='Contract' properties={} (Unknown)",
+      "INVOLVES",
+      "id='Goods Are To Be Specially Manufactured For The Buyer' type='Goods' properties={} (Unknown)"
+    ],
+    [
+      "id='Contract For The Sale Of Goods For The Price Of $500 Or More' type='Contract' properties={} (Unknown)",
+      "INVOLVES",
+      "id='Goods For Which Payment Has Been Made And Accepted' type='Goods' properties={} (Unknown)"
+    ],
+    [
+      "id='\u00a7 8.2-201. (Effective July 1, 2025) Formal Requirements; Statute Of Frauds' type='Legal_clause' properties={} (Unknown)",
+      "REQUIRES",
+      "id='Record Sufficient To Indicate That A Contract For Sale' type='Document' properties={} (Unknown)"
+    ],
+    [
+      "id='Merchants' type='Entity' properties={} (Unknown)",
+      "INVOLVED_IN",
+      "id='Contract' type='Concept' properties={} (Unknown)"
+    ],
+    [
+      "id='Contract' type='Concept' properties={} (Unknown)",
+      "INVOLVES",
+      "id='Goods' type='Concept' properties={} (Unknown)"
+    ],
+    [
+      "id='Buyer' type='Entity' properties={} (Unknown)",
+      "PURCHASES",
+      "id='Goods' type='Concept' properties={} (Unknown)"
+    ],
+    [
+      "id='Seller' type='Entity' properties={} (Unknown)",
+      "SELLS",
+      "id='Goods' type='Concept' properties={} (Unknown)"
+    ],
+    [
+      "id='Buyer' type='Entity' properties={} (Unknown)",
+      "MAKES",
+      "id='Payment' type='Concept' properties={} (Unknown)"
+    ],
+    [
+      "id='Seller' type='Entity' properties={} (Unknown)",
+      "RECEIVES",
+      "id='Payment' type='Concept' properties={} (Unknown)"
+    ],
+    [
+      "id='Court' type='Entity' properties={} (Unknown)",
+      "EVALUATES",
+      "id='Agreement' type='Concept' properties={} (Unknown)"
+    ],
+    [
+      "id='Merchants' type='Entity' properties={} (Unknown)",
+      "ESTABLISHES",
+      "id='Agreement' type='Concept' properties={} (Unknown)"
+    ],
+    [
+      "id='Seals' type='Concept' properties={} (Unknown)",
+      "ASSOCIATED_WITH",
+      "id='Agreement' type='Concept' properties={} (Unknown)"
+    ],
+    [
+      "id='\u00a7 8.2-203 (Effective Until July 1, 2025)' type='Law' properties={} (Unknown)",
+      "REFERENCED_IN",
+      "id='1964, C. 219' type='Legal_reference' properties={} (Unknown)"
+    ],
+    [
+      "id='\u00a7 8.2-203 (Effective July 1, 2025)' type='Law' properties={} (Unknown)",
+      "REFERENCED_IN",
+      "id='1964, C. 219' type='Legal_reference' properties={} (Unknown)"
+    ],
+    [
+      "id='\u00a7 8.2-203 (Effective July 1, 2025)' type='Law' properties={} (Unknown)",
+      "REFERENCED_IN",
+      "id='2024, C. 652' type='Legal_reference' properties={} (Unknown)"
+    ],
+    [
+      "id='\u00a7 8.2-204' type='Law' properties={} (Unknown)",
+      "REFERENCED_IN",
+      "id='1964, C. 219' type='Legal_reference' properties={} (Unknown)"
+    ],
+    [
+      "id='\u00a7 8.2-205 (Effective Until July 1, 2025)' type='Law' properties={} (Unknown)",
+      "REFERENCED_IN",
+      "id='1964, C. 219' type='Legal_reference' properties={} (Unknown)"
+    ],
+    [
+      "id='\u00a7 8.2-205 (Effective July 1, 2025)' type='Law' properties={} (Unknown)",
+      "REFERENCED_IN",
+      "id='1964, C. 219' type='Legal_reference' properties={} (Unknown)"
+    ],
+    [
+      "id='\u00a7 8.2-205 (Effective July 1, 2025)' type='Law' properties={} (Unknown)",
+      "REFERENCED_IN",
+      "id='2024, C. 652' type='Legal_reference' properties={} (Unknown)"
+    ],
+    [
+      "id='\u00a7 8.2-206' type='Law' properties={} (Unknown)",
+      "REFERENCED_IN",
+      "id='1964, C. 219' type='Legal_reference' properties={} (Unknown)"
+    ],
+    [
+      "id='Performance' type='Concept' properties={} (Unknown)",
+      "INVOLVES",
+      "id='Offeror' type='Person' properties={} (Unknown)"
+    ],
+    [
+      "id='Offeror' type='Person' properties={} (Unknown)",
+      "AWAITS",
+      "id='Acceptance' type='Concept' properties={} (Unknown)"
+    ],
+    [
+      "id='Acceptance' type='Concept' properties={} (Unknown)",
+      "MAY_INCLUDE",
+      "id='Additional Terms' type='Concept' properties={} (Unknown)"
+    ],
+    [
+      "id='Additional Terms' type='Concept' properties={} (Unknown)",
+      "PROPOSED_FOR",
+      "id='Contract' type='Concept' properties={} (Unknown)"
+    ],
+    [
+      "id='Merchants' type='Person' properties={} (Unknown)",
+      "MAY_INCLUDE_IN_CONTRACT",
+      "id='Additional Terms' type='Concept' properties={} (Unknown)"
+    ],
+    [
+      "id='Contract' type='Concept' properties={} (Unknown)",
+      "CAN_BE_SUBJECT_TO",
+      "id='Modification' type='Concept' properties={} (Unknown)"
+    ],
+    [
+      "id='Contract' type='Concept' properties={} (Unknown)",
+      "CAN_BE_SUBJECT_TO",
+      "id='Rescission' type='Concept' properties={} (Unknown)"
+    ],
+    [
+      "id='Contract' type='Concept' properties={} (Unknown)",
+      "CAN_BE_SUBJECT_TO",
+      "id='Waiver' type='Concept' properties={} (Unknown)"
+    ],
+    [
+      "id='\u00a7 8.2-209' type='Law' properties={} (Unknown)",
+      "INCLUDED_IN",
+      "id='1964, C. 219' type='Legal_document' properties={} (Unknown)"
+    ],
+    [
+      "id='\u00a7 8.2-209' type='Law' properties={} (Unknown)",
+      "INCLUDED_IN",
+      "id='2024, C. 652' type='Legal_document' properties={} (Unknown)"
+    ],
+    [
+      "id='\u00a7 8.2-210' type='Law' properties={} (Unknown)",
+      "INCLUDED_IN",
+      "id='1964, C. 219' type='Legal_document' properties={} (Unknown)"
+    ],
+    [
+      "id='\u00a7 8.2-209' type='Law' properties={} (Unknown)",
+      "REFERENCES",
+      "id='\u00a7 8.2-201' type='Law' properties={} (Unknown)"
+    ],
+    [
+      "id='\u00a7 8.2-210' type='Law' properties={} (Unknown)",
+      "REFERENCES",
+      "id='\u00a7 8.9A-406' type='Law' properties={} (Unknown)"
+    ],
+    [
+      "id='Creation, Attachment, Perfection, Enforcement Of A Security Interest' type='Process' properties={} (Unknown)",
+      "AFFECTS",
+      "id=\"Seller'S Interest Under A Contract\" type='Legal concept' properties={} (Unknown)"
+    ],
+    [
+      "id='Transfer' type='Legal concept' properties={} (Unknown)",
+      "AFFECTS",
+      "id='Buyer' type='Role' properties={} (Unknown)"
+    ],
+    [
+      "id='Enforcement' type='Process' properties={} (Unknown)",
+      "RESULTS_IN",
+      "id='Delegation Of Material Performance Of The Seller' type='Process' properties={} (Unknown)"
+    ],
+    [
+      "id='Seller' type='Role' properties={} (Unknown)",
+      "LIABLE_FOR",
+      "id='Damages' type='Legal concept' properties={} (Unknown)"
+    ],
+    [
+      "id='Court' type='Institution' properties={} (Unknown)",
+      "MAY_GRANT_RELIEF_FOR",
+      "id='Damages' type='Legal concept' properties={} (Unknown)"
+    ],
+    [
+      "id='Prohibition Of Assignment Of The Contract' type='Legal concept' properties={} (Unknown)",
+      "BARS",
+      "id='Assignee' type='Role' properties={} (Unknown)"
+    ],
+    [
+      "id='Assignment Of The Contract' type='Legal concept' properties={} (Unknown)",
+      "IMPLIES",
+      "id='Delegation Of Performance Of The Duties Of The Assignor' type='Process' properties={} (Unknown)"
+    ],
+    [
+      "id='Assignee' type='Role' properties={} (Unknown)",
+      "MAKES",
+      "id='Promise' type='Legal concept' properties={} (Unknown)"
+    ],
+    [
+      "id='Assignor' type='Role' properties={} (Unknown)",
+      "CAN_ENFORCE",
+      "id='Promise' type='Legal concept' properties={} (Unknown)"
+    ],
+    [
+      "id='Other Party To The Original Contract' type='Role' properties={} (Unknown)",
+      "CAN_ENFORCE",
+      "id='Promise' type='Legal concept' properties={} (Unknown)"
+    ],
+    [
+      "id='Assignment Which Delegates Performance' type='Legal concept' properties={} (Unknown)",
+      "CREATES",
+      "id='Reasonable Grounds For Insecurity' type='Legal concept' properties={} (Unknown)"
+    ],
+    [
+      "id='Other Party To The Original Contract' type='Role' properties={} (Unknown)",
+      "MAY_DEMAND",
+      "id='Assurances From The Assignee' type='Legal concept' properties={} (Unknown)"
+    ]
+  ],
+  "original_text": "\n\nTable of Contents \u00bb Title 8.2. Commercial Code \u2014 Sales \u00bb Part 2. Form, Formation and Readjustment of Contract\n\n    Part \n\nPart 2. Form, Formation and Readjustment of Contract..\n\u00a7 8.2-201. (Effective until July 1, 2025) Formal requirements; statute of frauds.\n\n(1) Except as otherwise provided in this section a contract for the sale of goods for the price of $500 or more is not enforceable by way of action or defense unless there is some writing sufficient to indicate that a contract for sale has been made between the parties and signed by the party against whom enforcement is sought or by his authorized agent or broker. A writing is not insufficient because it omits or incorrectly states a term agreed upon but the contract is not enforceable under this paragraph beyond the quantity of goods shown in such writing.\n\n(2) Between merchants if within a reasonable time a writing in confirmation of the contract and sufficient against the sender is received and the party receiving it has reason to know its contents, it satisfies the requirements of subsection (1) against such party unless written notice of objection to its contents is given within ten days after it is received.\n\n(3) A contract which does not satisfy the requirements of subsection (1) but which is valid in other respects is enforceable\n\n(a) if the goods are to be specially manufactured for the buyer and are not suitable for sale to others in the ordinary course of the seller's business and the seller, before notice of repudiation is received and under circumstances which reasonably indicate that the goods are for the buyer, has made either a substantial beginning of their manufacture or commitments for their procurement; or\n\n(b) if the party against whom enforcement is sought admits in his pleading, testimony or otherwise in court that a contract for sale was made, but the contract is not enforceable under this provision beyond the quantity of goods admitted; or\n\n(c) with respect to goods for which payment has been made and accepted or which have been received and accepted (\u00a7 8.2-606).\n\n1964, c. 219.\n\u00a7 8.2-201. (Effective July 1, 2025) Formal requirements; statute of frauds.\n\n(1) Except as otherwise provided in this section a contract for the sale of goods for the price of $500 or more is not enforceable by way of action or defense unless there is a record sufficient to indicate that a contract for sale has been made between the parties and signed by the party against whom enforcement is sought or by the party's authorized agent or broker. A record is not insufficient because it omits or incorrectly states a term agreed upon but the contract is not enforceable under this subsection beyond the quantity of goods shown in the record.\n\n(2) Between merchants if within a reasonable time a record in confirmation of the contract and sufficient against the sender is received and the party receiving it has reason to know its contents, it satisfies the requirements of subsection (1) against the party unless notice in a record of objection to its contents is given within ten days after it is received.\n\n(3) A contract which does not satisfy the requirements of subsection (1) but which is valid in other respects is enforceable\n\n(a) if the goods are to be specially manufactured for the buyer and are not suitable for sale to others in the ordinary course of the seller's business and the seller, before notice of repudiation is received and under circumstances which reasonably indicate that the goods are for the buyer, has made either a substantial beginning of their manufacture or commitments for their procurement; or\n\n(b) if the party against whom enforcement is sought admits in his pleading, testimony or otherwise in court that a contract for sale was made, but the contract is not enforceable under this provision beyond the quantity of goods admitted; or\n\n(c) with respect to goods for which payment has been made and accepted or which have been received and accepted (\u00a7 8.2-606).\n\n1964, c. 219; 2024, c. 652.\n\u00a7 8.2-202. (Effective until July 1, 2025) Final written expression; parol or extrinsic evidence.\n\nTerms with respect to which the confirmatory memoranda of the parties agree or which are otherwise set forth in a writing intended by the parties as a final expression of their agreement with respect to such terms as are included therein may not be contradicted by evidence of any prior agreement or of a contemporaneous oral agreement but may be explained or supplemented\n\n(a) by course of performance, course of dealing or usage of trade (\u00a7 8.1A-303); and\n\n(b) by evidence of consistent additional terms unless the court finds the writing to have been intended also as a complete and exclusive statement of the terms of the agreement.\n\n1964, c. 219; 2003, c. 353.\n\u00a7 8.2-202. (Effective July 1, 2025) Final expression; parol or extrinsic evidence.\n\nTerms with respect to which the confirmatory memoranda of the parties agree or which are otherwise set forth in a record intended by the parties as a final expression of their agreement with respect to such terms as are included therein may not be contradicted by evidence of any prior agreement or of a contemporaneous oral agreement but may be explained or supplemented:\n\n(a) by course of performance, course of dealing or usage of trade (\u00a7 8.1A-303); and\n\n(b) by evidence of consistent additional terms unless the court finds the record to have been intended also as a complete and exclusive statement of the terms of the agreement.\n\n1964, c. 219; 2003, c. 353; 2024, c. 652.\n\u00a7 8.2-203. (Effective until July 1, 2025) Seals inoperative.\n\nThe affixing of a seal to a writing evidencing a contract for sale or an offer to buy or sell goods does not constitute the writing a sealed instrument and the law with respect to sealed instruments does not apply to such a contract or offer.\n\n1964, c. 219.\n\u00a7 8.2-203. (Effective July 1, 2025) Seals inoperative.\n\nThe affixing of a seal to a record evidencing a contract for sale or an offer to buy or sell goods does not constitute the record a sealed instrument and the law with respect to sealed instruments does not apply to such a contract or offer.\n\n1964, c. 219; 2024, c. 652.\n\u00a7 8.2-204. Formation in general.\n\n(1) A contract for sale of goods may be made in any manner sufficient to show agreement, including conduct by both parties which recognizes the existence of such a contract.\n\n(2) An agreement sufficient to constitute a contract for sale may be found even though the moment of its making is undetermined.\n\n(3) Even though one or more terms are left open a contract for sale does not fail for indefiniteness if the parties have intended to make a contract and there is a reasonably certain basis for giving an appropriate remedy.\n\n1964, c. 219.\n\u00a7 8.2-205. (Effective until July 1, 2025) Firm offers.\n\nAn offer by a merchant to buy or sell goods in a signed writing which by its terms gives assurance that it will be held open is not revocable, for lack of consideration, during the time stated or if no time is stated for a reasonable time, but in no event may such period of irrevocability exceed three months; but any such term of assurance on a form supplied by the offeree must be separately signed by the offeror.\n\n1964, c. 219.\n\u00a7 8.2-205. (Effective July 1, 2025) Firm offers.\n\nAn offer by a merchant to buy or sell goods in a signed record which by its terms gives assurance that it will be held open is not revocable, for lack of consideration, during the time stated or if no time is stated for a reasonable time, but in no event may such period of irrevocability exceed three months; but any such term of assurance on a form supplied by the offeree must be separately signed by the offeror.\n\n1964, c. 219; 2024, c. 652.\n\u00a7 8.2-206. Offer and acceptance in formation of contract.\n\n(1) Unless otherwise unambiguously indicated by the language or circumstances\n\n(a) an offer to make a contract shall be construed as inviting acceptance in any manner and by any medium reasonable in the circumstances;\n\n(b) an order or other offer to buy goods for prompt or current shipment shall be construed as inviting acceptance either by a prompt promise to ship or by the prompt or current shipment of conforming or nonconforming goods, but such a shipment of nonconforming goods does not constitute an acceptance if the seller seasonably notifies the buyer that the shipment is offered only as an accommodation to the buyer.\n\n(2) Where the beginning of a requested performance is a reasonable mode of acceptance an offeror who is not notified of acceptance within a reasonable time may treat the offer as having lapsed before acceptance.\n\n1964, c. 219.\n\u00a7 8.2-207. Additional terms in acceptance or confirmation.\n\n(1) A definite and seasonable expression of acceptance or a written confirmation which is sent within a reasonable time operates as an acceptance even though it states terms additional to or different from those offered or agreed upon, unless acceptance is expressly made conditional on assent to the additional or different terms.\n\n(2) The additional terms are to be construed as proposals for addition to the contract. Between merchants such terms become part of the contract unless:\n\n(a) the offer expressly limits acceptance to the terms of the offer;\n\n(b) they materially alter it; or\n\n(c) notification of objection to them has already been given or is given within a reasonable time after notice of them is received.\n\n(3) Conduct by both parties which recognizes the existence of a contract is sufficient to establish a contract for sale although the writings of the parties do not otherwise establish a contract. In such case the terms of the particular contract consist of those terms on which the writings of the parties agree, together with any supplementary terms incorporated under any other provisions of this act.\n\n1964, c. 219.\n\u00a7 8.2-208. Repealed.\n\nRepealed by Acts 2003, c. 353.\n\u00a7 8.2-209. (Effective until July 1, 2025) Modification, rescission and waiver.\n\n(1) An agreement modifying a contract within this title needs no consideration to be binding.\n\n(2) A signed agreement which excludes modification or rescission except by a signed writing cannot be otherwise modified or rescinded, but except as between merchants such a requirement on a form supplied by the merchant must be separately signed by the other party.\n\n(3) The requirements of the statute of frauds section of this title (\u00a7 8.2-201) must be satisfied if the contract as modified is within its provisions.\n\n(4) Although an attempt at modification or rescission does not satisfy the requirements of subsection (2) or (3) it can operate as a waiver.\n\n(5) A party who has made a waiver affecting an executory portion of the contract may retract the waiver by reasonable notification received by the other party that strict performance will be required of any term waived, unless the retraction would be unjust in view of a material change of position in reliance on the waiver.\n\n1964, c. 219.\n\u00a7 8.2-209. (Effective July 1, 2025) Modification, rescission, and waiver.\n\n(1) An agreement modifying a contract within this title needs no consideration to be binding.\n\n(2) A signed agreement which excludes modification or rescission except by a signed writing or other signed record cannot be otherwise modified or rescinded, but except as between merchants such a requirement on a form supplied by the merchant must be separately signed by the other party.\n\n(3) The requirements of the statute of frauds section of this title (\u00a7 8.2-201) must be satisfied if the contract as modified is within its provisions.\n\n(4) Although an attempt at modification or rescission does not satisfy the requirements of subsection (2) or (3) it can operate as a waiver.\n\n(5) A party who has made a waiver affecting an executory portion of the contract may retract the waiver by reasonable notification received by the other party that strict performance will be required of any term waived, unless the retraction would be unjust in view of a material change of position in reliance on the waiver.\n\n1964, c. 219; 2024, c. 652.\n\u00a7 8.2-210. Delegation of performance; assignment of rights.\n\n(1) A party may perform his duty through a delegate unless otherwise agreed or unless the other party has a substantial interest in having his original promisor perform or control the acts required by the contract. No delegation of performance relieves the party delegating of any duty to perform or any liability for breach.\n\n(2) Except as otherwise provided in \u00a7 8.9A-406, unless otherwise agreed all rights of either seller or buyer can be assigned except where the assignment would materially change the duty of the other party, or increase materially the burden or risk imposed on him by his contract, or impair materially his chance of obtaining return performance. A right to damages for breach of the whole contract or a right arising out of the assignor's due performance of his entire obligation can be assigned despite agreement otherwise.\n\n(3) The creation, attachment, perfection, or enforcement of a security interest in the seller's interest under a contract is not a transfer that materially changes the duty of or increases materially the burden or risk imposed on the buyer or impairs materially the buyer's chance of obtaining return performance within the purview of subsection (2) unless, and then only to the extent that, enforcement actually results in a delegation of material performance of the seller. Even in that event, the creation, attachment, perfection, and enforcement of the security interest remain effective, but (i) the seller is liable to the buyer for damages caused by the delegation to the extent that the damages could not reasonably be prevented by the buyer and (ii) a court having jurisdiction may grant other appropriate relief, including cancellation of the contract for sale or an injunction against enforcement of the security interest or consummation of the enforcement.\n\n(4) Unless the circumstances indicate the contrary a prohibition of assignment of \"the contract\" is to be construed as barring only the delegation to the assignee of the assignor's performance.\n\n(5) An assignment of \"the contract\" or of \"all my rights under the contract\" or an assignment in similar general terms is an assignment of rights and unless the language or the circumstances (as in an assignment for security) indicate the contrary, it is a delegation of performance of the duties of the assignor and its acceptance by the assignee constitutes a promise by him to perform those duties. This promise is enforceable by either the assignor or the other party to the original contract.\n\n(6) The other party may treat any assignment which delegates performance as creating reasonable grounds for insecurity and may without prejudice to his rights against the assignor demand assurances from the assignee (\u00a7 8.2-609).\n\n1964, c. 219; 2000, c. 1007.\n"
+}
